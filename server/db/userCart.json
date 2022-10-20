@@ -1,0 +1,13 @@
+{
+    "amount": 0,
+    "countGoods": 0,
+    "contents": [
+        {
+            "quantity": 1,
+            "id_product": 5,
+            "img": "img/card_5.png",
+            "product_name": "BLUE JACKET",
+            "price": 500
+        }
+    ]
+}

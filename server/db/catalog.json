@@ -1,0 +1,56 @@
+[
+    {
+      "id_product": 1,
+      "img": "img/card_1.png",
+      "product_name": "GRAY BACKPACK",
+      "price": 100.00
+    },
+    {
+        "id_product": 2,
+        "img": "img/card_2.png",
+        "product_name": "BLACK DRESS",
+        "price": 200.00
+    },
+    {
+        "id_product": 3,
+        "img": "img/card_3.png",
+        "product_name": "HOODIE",
+        "price": 300.00
+    },
+    {
+        "id_product": 4,
+        "img": "img/card_4.png",
+        "product_name": "YELLOW PANTS",
+        "price": 400.00
+    },
+    {
+        "id_product": 5,
+        "img": "img/card_5.png",
+        "product_name": "BLUE JACKET",
+        "price": 500.00
+    },
+    {
+        "id_product": 6,
+        "img": "img/card_6.png",
+        "product_name": "GREY T-SHIRT",
+        "price": 600.00
+    },
+    {
+        "id_product": 7,
+        "img": "img/card_7.png",
+        "product_name": "BLACK PANTS",
+        "price": 700.00
+    },
+    {
+        "id_product": 8,
+        "img": "img/card_8.png",
+        "product_name": "WHITE T-SHIRT",
+        "price": 800.00
+    },
+    {
+        "id_product": 9,
+        "img": "img/card_9.png",
+        "product_name": "BLUE CAP",
+        "price": 900.00
+    }
+  ]

@@ -1,0 +1,12 @@
+**/node_modules
+<<<<<<< HEAD
+**/les[1-100]
+=======
+**/lessons
+>>>>>>> les7
+node_modules
+lessons
+les[1-100]
+/node_modules
+/lessons
+/les[1-100]
